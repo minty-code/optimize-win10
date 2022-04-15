@@ -91,4 +91,3 @@ These were just a bunch of guides I found online slapped into one. I only put th
 * Debloat Script: https://github.com/Sycnex
 * Glen Delahoy - SDIO https://www.snappy-driver-installer.org/
 * TechPowerUp: NVCleanstall https://www.techpowerup.com/nvcleanstall/
-* Special Thanks to everyone in tweaking discord servers who sent me these resources
