@@ -30,7 +30,7 @@ Most options will be changed by Chris Titus's script. Make sure hardware acceler
 * Put this in powershell (admin) ` iwr -useb https://git.io/debloat|iex `
 * Click remove all bloatware, disable telemetry/tasks, and remove bloatware regkeys.
  
- #Timer Resolution Service
+ # Timer Resolution Service
 * In most cases, this has improved my fps. Tested on desktop and gaming laptop
 * Just follow read me in folder
 
