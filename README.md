@@ -38,22 +38,22 @@ Most options will be changed by Chris Titus's script. Make sure hardware acceler
 * Display adapters:
   * Intel graphics (if you don’t use it, ideally should be disabled in the BIOS)
 * Network adapters:
-   * All WAN miniports
-   * Microsoft ISATAP Adapter
+    * All WAN miniports
+    * Microsoft ISATAP Adapter
 *	Storage controllers:
-  * Microsoft iSCSI Initiator
-  *	System devices:
-  * Composite Bus Enumerator
-  * Intel Management Engine / AMD PSP
-  * Intel SPI (flash) Controller
-  * Microsoft GS Wavetable Synth
-  * Microsoft Virtual Drive Enumerator (if not using virtual drives)
-  * NDIS Virtual Network Adapter Enumerator
-  * Remote Desktop Device Redirector Bus
-  * SMBus
-  * System speaker
-  * Terminal Server Mouse/Keyboard drivers
-  * UMBus
+    * Microsoft iSCSI Initiator
+*	System devices:
+    * Composite Bus Enumerator
+    * Intel Management Engine / AMD PSP
+    * Intel SPI (flash) Controller
+    * Microsoft GS Wavetable Synth
+     * Microsoft Virtual Drive Enumerator (if not using virtual drives)
+    * NDIS Virtual Network Adapter Enumerator
+    * Remote Desktop Device Redirector Bus
+    * SMBus
+    * System speaker
+    * Terminal Server Mouse/Keyboard drivers
+    * UMBus
 # Disable Antivirus
 * It's in the name. Not necessary
 # BCDEdit and system timers
