@@ -71,7 +71,9 @@ Paste in a cmd (admin)
 Honestly use whatever power plan you want
 
 # Memory Cleaners
-I don't use one, because I have 16gb of ram. The only one I know of is ISLC, and it seems to be disliked by the tweaking community.
+I don't use one on my desktop, because I have 16gb of ram. The only one I know of is ISLC, and it seems to be disliked by the tweaking community.
+
+On my laptop, I use ISLC because I only have 8gb ram. I followed this guide https://www.youtube.com/watch?v=cP1EMzGD9Xc
 
 # Custom ISO's
 * If you thought this was too much work, here are 2 very nice custom iso's that get all the work done for you. GG has better performance, but I prefer Revi because I play Phasmophobia sometimes 
