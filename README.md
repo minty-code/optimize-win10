@@ -74,4 +74,5 @@ I don't use one, because I have 16gb of ram. The only one I know of is ISLC, and
 These were just a bunch of guides I found online slapped into one. I only put the things that actually seemed to effect my fps. I will link everything I have mentioned here.
 * Calypto's Latency Guide: https://www.calypto.us
 * Chris Titus Tech: https://www.youtube.com/c/ChrisTitusTech
+* Debloat Script: https://github.com/Sycnex
 * Special Thanks to everyone in tweaking discord servers who sent me these resources
