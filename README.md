@@ -77,7 +77,7 @@ On my laptop, I use ISLC because I only have 8gb ram. I followed this guide http
 
 # What to avoid
 * Avoid game boosters like Razer Cortex or Smart Game Booster. They only cause problems (for me). If your PC is that bad, just lower the resolution.
-* I would really only recommend following Calypto or Fr33thy's guides on windows 10 optimizations. A custom ISO will beat both f them.
+* I would really only recommend following Calypto or Fr33thy's guides on windows 10 optimizations. A custom ISO will beat every optimization done to stock windows.
 
 # Custom ISO's
 * If you thought this was too much work, here are 2 very nice custom iso's that get all the work done for you. GG has better performance, but I prefer Revi because I play Phasmophobia sometimes 
