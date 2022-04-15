@@ -1,5 +1,5 @@
 # Windows 10 Optimization
-A guide on how to get more out of Windows 10. Mainly for me to use when setting up new win10 computers.
+A guide on how to get more out of Windows 10. Mainly for me to use when setting up new win10 computers. All links at bottom
 
 **NOT RECCOMENDED FOR LAPTOPS**
 
@@ -12,6 +12,14 @@ Results cannot be guarunteed. Proceed with caution. Always have a restore point 
 * More stable FPS, lower input lag 
 * Less tracking (Linux is still WAY better with this)
 * Lower input lag in games (Not super noticeable, no false promises. Maybe I'm just not good enough lolol)
+
+# Drivers
+* Use NVCleanstall. Click recommended features, and install. 
+* AMD Users are chilling
+* Try to use drivers from manufacturer website as much as possible. If not there, use Snappy Driver Installer Origin (SDIO). 
+
+# Windows Options
+Most options will be changed by Chris Titus's script. Make sure hardware accelerated GPU scheduling is enabled if you have the option.
 
 # Chris Titus Tech Debloat Script
 * Put this in powershell (admin)  ` iwr -useb https://git.io/JJ8R4 | iex `
@@ -75,4 +83,6 @@ These were just a bunch of guides I found online slapped into one. I only put th
 * Calypto's Latency Guide: https://www.calypto.us
 * Chris Titus Tech: https://www.youtube.com/c/ChrisTitusTech
 * Debloat Script: https://github.com/Sycnex
+* Glen Delahoy - SDIO https://www.snappy-driver-installer.org/
+* TechPowerUp: NVCleanstall https://www.techpowerup.com/nvcleanstall/
 * Special Thanks to everyone in tweaking discord servers who sent me these resources
