@@ -81,7 +81,7 @@ On my laptop, I use ISLC because I only have 8gb ram. I followed this guide http
   * ReviOS - https://www.revi.cc/ or https://discord.com/invite/962y4pU
 
 # Credit
-These were just a bunch of guides I found online slapped into one. I only put the things that actually seemed to effect my fps. I will link everything I have mentioned here.
+These were just a bunch of guides I found online slapped into one. I only put the things that actually seemed to increase my fps. I will link everything I have mentioned here.
 * Calypto's Latency Guide: https://www.calypto.us
 * Chris Titus Tech: https://www.youtube.com/c/ChrisTitusTech
 * Debloat Script: https://github.com/Sycnex
